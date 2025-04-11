@@ -25,11 +25,11 @@ export async function generateMetadata({ params }: pageProps) {
   ogUrl.searchParams.set("description", description);
 
   return {
-    title: `${siteConfig.title} | ${
+    title: `${
       title.split(" ").length > 4
         ? title.split(" ").slice(0, 4).join(" ") + "..."
         : title
-    }`,
+    } | ${siteConfig.title}`,
     description: description,
     openGraph: {
       title: title,

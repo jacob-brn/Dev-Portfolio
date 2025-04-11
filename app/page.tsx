@@ -15,8 +15,6 @@ import {
 } from "@/config/config";
 import { FaGithub } from "react-icons/fa";
 
-export const metadata = {};
-
 export default function Home() {
   return (
     <div className="relative w-full max-w-3xl mx-auto border-x">
