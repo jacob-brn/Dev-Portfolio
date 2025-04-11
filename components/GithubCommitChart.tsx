@@ -55,7 +55,7 @@ const GithubCommitChart = () => {
         }}
       />
       <GitHubCalendar
-        username="jacob-brn"
+        username={siteConfig.githubUsername}
         hideTotalCount
         hideColorLegend
         hideMonthLabels
