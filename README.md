@@ -1,13 +1,10 @@
 # 🧑‍💻 Dev Portfolio
 
 <p align="center">
-  <video width="100%" controls autoplay muted loop playsinline>
-    <source src="https://github.com/jacob-brn/Dev-Portfolio/blob/main/public/github_thumbnail.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+    <img alt="Dev Portfolio Showcase" src="https://github.com/jacob-brn/Dev-Portfolio/blob/main/public/github_thumbnail.gif"   width="100%">
 </p>
 
-## 🎯 Dev Portfolio 
+## 🎯 Dev Portfolio
 
 A clean, responsive, and customizable developer portfolio template built using modern web technologies. Designed to help you present your skills, projects, and writing in a beautiful way.
 
