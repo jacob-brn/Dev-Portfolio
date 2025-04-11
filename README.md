@@ -22,7 +22,7 @@ Next.js · Tailwind CSS · Framer Motion · shadcn/ui
 
 ## 🌐 Live Demo
 
-Check it out here: [your-live-demo-link.com](https://your-live-demo-link.com)
+Check it out here: (TODO: DEPLOY)
 
 ---
 
