@@ -1,0 +1,31 @@
+---
+title: Hello World
+description: This is my first blog post
+publishedAt: 08.04.2025
+timeToRead: 2
+---
+
+# Hey friends 👋
+
+Just dropping by to share a little something I've been playing with lately. Been diving into some JavaScript utilities and wanted to put together a simple snippet that returns a greeting with a bit of a twist. Nothing groundbreaking, but sometimes clean and simple is all you need.
+
+### Here's the code:
+
+```jsx
+const greetUser = (name = "World") => {
+  const message = `Hello, ${name}! 👋`;
+  return message;
+};
+
+// Example usage:
+console.log(greetUser()); // "Hello, World! 👋"
+console.log(greetUser("Dev")); // "Hello, Dev! 👋"
+```
+
+| Feature       | Status        | Priority | Assigned To | Notes                      |
+| ------------- | ------------- | -------- | ----------- | -------------------------- |
+| Login Flow    | ✅ Done       | High     | Jamie       | Fully tested and deployed  |
+| Dark Mode     | 🛠 In Progress | Medium   | Sam         | Needs style refinements    |
+| API Sync      | ⏳ Pending    | High     | Taylor      | Waiting on backend changes |
+| Notifications | ✅ Done       | Low      | Jordan      | Live on staging            |
+| Analytics     | ❌ Blocked    | High     | Morgan      | Blocked by missing SDK     |
