@@ -59,7 +59,7 @@ const navbarSocialLinks: NavbarLinksProps[] = [
   {
     label: "GitHub",
     icon: <FaGithub />,
-    link: "https://github.com/jacob-brn/Optiq-UI",
+    link: "https://github.com/jacob-brn/optiqui",
   },
   {
     label: "X",
