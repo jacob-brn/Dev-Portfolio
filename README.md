@@ -22,7 +22,7 @@ Next.js · Tailwind CSS · Framer Motion · shadcn/ui
 
 ## 🌐 Live Demo
 
-Check it out here: (TODO: DEPLOY)
+Check it out here: [**website**](https://optiqui-dev-portfolio.vercel.app/blog/hello-word)
 
 ---
 
